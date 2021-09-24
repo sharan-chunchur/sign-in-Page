@@ -1,0 +1,19 @@
+
+.form-signin{
+    padding: 10% 20%;
+}
+
+.set{
+    width: 50px;
+    height: 200px;
+}
+
+.stickleft{
+    position: absolute;
+    left: 0px;
+}
+
+.stickright{
+    position: absolute;
+    right: 0px;
+}
